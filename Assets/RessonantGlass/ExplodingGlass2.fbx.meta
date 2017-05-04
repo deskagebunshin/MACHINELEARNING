@@ -1,0 +1,2209 @@
+fileFormatVersion: 2
+guid: 6b50dde2b2594f54490b7b7732b57fae
+timeCreated: 1493832659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sphere_fracturepart1
+    100004: Sphere_fracturepart10
+    100006: Sphere_fracturepart100
+    100008: Sphere_fracturepart101
+    100010: Sphere_fracturepart102
+    100012: Sphere_fracturepart103
+    100014: Sphere_fracturepart104
+    100016: Sphere_fracturepart105
+    100018: Sphere_fracturepart106
+    100020: Sphere_fracturepart107
+    100022: Sphere_fracturepart108
+    100024: Sphere_fracturepart109
+    100026: Sphere_fracturepart11
+    100028: Sphere_fracturepart110
+    100030: Sphere_fracturepart111
+    100032: Sphere_fracturepart112
+    100034: Sphere_fracturepart113
+    100036: Sphere_fracturepart114
+    100038: Sphere_fracturepart115
+    100040: Sphere_fracturepart116
+    100042: Sphere_fracturepart117
+    100044: Sphere_fracturepart118
+    100046: Sphere_fracturepart119
+    100048: Sphere_fracturepart12
+    100050: Sphere_fracturepart120
+    100052: Sphere_fracturepart121
+    100054: Sphere_fracturepart122
+    100056: Sphere_fracturepart123
+    100058: Sphere_fracturepart124
+    100060: Sphere_fracturepart125
+    100062: Sphere_fracturepart126
+    100064: Sphere_fracturepart127
+    100066: Sphere_fracturepart128
+    100068: Sphere_fracturepart129
+    100070: Sphere_fracturepart13
+    100072: Sphere_fracturepart130
+    100074: Sphere_fracturepart131
+    100076: Sphere_fracturepart132
+    100078: Sphere_fracturepart133
+    100080: Sphere_fracturepart134
+    100082: Sphere_fracturepart135
+    100084: Sphere_fracturepart136
+    100086: Sphere_fracturepart137
+    100088: Sphere_fracturepart138
+    100090: Sphere_fracturepart139
+    100092: Sphere_fracturepart14
+    100094: Sphere_fracturepart140
+    100096: Sphere_fracturepart141
+    100098: Sphere_fracturepart142
+    100100: Sphere_fracturepart143
+    100102: Sphere_fracturepart144
+    100104: Sphere_fracturepart145
+    100106: Sphere_fracturepart146
+    100108: Sphere_fracturepart147
+    100110: Sphere_fracturepart148
+    100112: Sphere_fracturepart149
+    100114: Sphere_fracturepart15
+    100116: Sphere_fracturepart150
+    100118: Sphere_fracturepart151
+    100120: Sphere_fracturepart152
+    100122: Sphere_fracturepart153
+    100124: Sphere_fracturepart154
+    100126: Sphere_fracturepart155
+    100128: Sphere_fracturepart156
+    100130: Sphere_fracturepart157
+    100132: Sphere_fracturepart158
+    100134: Sphere_fracturepart159
+    100136: Sphere_fracturepart16
+    100138: Sphere_fracturepart160
+    100140: Sphere_fracturepart161
+    100142: Sphere_fracturepart162
+    100144: Sphere_fracturepart163
+    100146: Sphere_fracturepart164
+    100148: Sphere_fracturepart165
+    100150: Sphere_fracturepart166
+    100152: Sphere_fracturepart167
+    100154: Sphere_fracturepart168
+    100156: Sphere_fracturepart169
+    100158: Sphere_fracturepart17
+    100160: Sphere_fracturepart170
+    100162: Sphere_fracturepart171
+    100164: Sphere_fracturepart172
+    100166: Sphere_fracturepart173
+    100168: Sphere_fracturepart174
+    100170: Sphere_fracturepart175
+    100172: Sphere_fracturepart176
+    100174: Sphere_fracturepart177
+    100176: Sphere_fracturepart178
+    100178: Sphere_fracturepart179
+    100180: Sphere_fracturepart18
+    100182: Sphere_fracturepart180
+    100184: Sphere_fracturepart181
+    100186: Sphere_fracturepart182
+    100188: Sphere_fracturepart183
+    100190: Sphere_fracturepart184
+    100192: Sphere_fracturepart185
+    100194: Sphere_fracturepart186
+    100196: Sphere_fracturepart187
+    100198: Sphere_fracturepart188
+    100200: Sphere_fracturepart189
+    100202: Sphere_fracturepart19
+    100204: Sphere_fracturepart190
+    100206: Sphere_fracturepart191
+    100208: Sphere_fracturepart192
+    100210: Sphere_fracturepart193
+    100212: Sphere_fracturepart194
+    100214: Sphere_fracturepart195
+    100216: Sphere_fracturepart196
+    100218: Sphere_fracturepart197
+    100220: Sphere_fracturepart198
+    100222: Sphere_fracturepart199
+    100224: Sphere_fracturepart2
+    100226: Sphere_fracturepart20
+    100228: Sphere_fracturepart200
+    100230: Sphere_fracturepart201
+    100232: Sphere_fracturepart202
+    100234: Sphere_fracturepart203
+    100236: Sphere_fracturepart204
+    100238: Sphere_fracturepart205
+    100240: Sphere_fracturepart206
+    100242: Sphere_fracturepart207
+    100244: Sphere_fracturepart208
+    100246: Sphere_fracturepart209
+    100248: Sphere_fracturepart21
+    100250: Sphere_fracturepart210
+    100252: Sphere_fracturepart211
+    100254: Sphere_fracturepart212
+    100256: Sphere_fracturepart213
+    100258: Sphere_fracturepart214
+    100260: Sphere_fracturepart215
+    100262: Sphere_fracturepart216
+    100264: Sphere_fracturepart217
+    100266: Sphere_fracturepart218
+    100268: Sphere_fracturepart219
+    100270: Sphere_fracturepart22
+    100272: Sphere_fracturepart220
+    100274: Sphere_fracturepart221
+    100276: Sphere_fracturepart222
+    100278: Sphere_fracturepart223
+    100280: Sphere_fracturepart224
+    100282: Sphere_fracturepart225
+    100284: Sphere_fracturepart226
+    100286: Sphere_fracturepart227
+    100288: Sphere_fracturepart228
+    100290: Sphere_fracturepart229
+    100292: Sphere_fracturepart23
+    100294: Sphere_fracturepart230
+    100296: Sphere_fracturepart231
+    100298: Sphere_fracturepart232
+    100300: Sphere_fracturepart233
+    100302: Sphere_fracturepart234
+    100304: Sphere_fracturepart235
+    100306: Sphere_fracturepart236
+    100308: Sphere_fracturepart237
+    100310: Sphere_fracturepart238
+    100312: Sphere_fracturepart239
+    100314: Sphere_fracturepart24
+    100316: Sphere_fracturepart240
+    100318: Sphere_fracturepart241
+    100320: Sphere_fracturepart242
+    100322: Sphere_fracturepart243
+    100324: Sphere_fracturepart244
+    100326: Sphere_fracturepart245
+    100328: Sphere_fracturepart246
+    100330: Sphere_fracturepart247
+    100332: Sphere_fracturepart248
+    100334: Sphere_fracturepart249
+    100336: Sphere_fracturepart25
+    100338: Sphere_fracturepart250
+    100340: Sphere_fracturepart251
+    100342: Sphere_fracturepart252
+    100344: Sphere_fracturepart253
+    100346: Sphere_fracturepart254
+    100348: Sphere_fracturepart255
+    100350: Sphere_fracturepart256
+    100352: Sphere_fracturepart257
+    100354: Sphere_fracturepart258
+    100356: Sphere_fracturepart259
+    100358: Sphere_fracturepart26
+    100360: Sphere_fracturepart260
+    100362: Sphere_fracturepart261
+    100364: Sphere_fracturepart262
+    100366: Sphere_fracturepart263
+    100368: Sphere_fracturepart264
+    100370: Sphere_fracturepart265
+    100372: Sphere_fracturepart266
+    100374: Sphere_fracturepart267
+    100376: Sphere_fracturepart268
+    100378: Sphere_fracturepart269
+    100380: Sphere_fracturepart27
+    100382: Sphere_fracturepart270
+    100384: Sphere_fracturepart271
+    100386: Sphere_fracturepart272
+    100388: Sphere_fracturepart273
+    100390: Sphere_fracturepart274
+    100392: Sphere_fracturepart275
+    100394: Sphere_fracturepart276
+    100396: Sphere_fracturepart277
+    100398: Sphere_fracturepart278
+    100400: Sphere_fracturepart279
+    100402: Sphere_fracturepart28
+    100404: Sphere_fracturepart280
+    100406: Sphere_fracturepart281
+    100408: Sphere_fracturepart282
+    100410: Sphere_fracturepart283
+    100412: Sphere_fracturepart284
+    100414: Sphere_fracturepart285
+    100416: Sphere_fracturepart286
+    100418: Sphere_fracturepart287
+    100420: Sphere_fracturepart288
+    100422: Sphere_fracturepart289
+    100424: Sphere_fracturepart29
+    100426: Sphere_fracturepart290
+    100428: Sphere_fracturepart291
+    100430: Sphere_fracturepart292
+    100432: Sphere_fracturepart293
+    100434: Sphere_fracturepart294
+    100436: Sphere_fracturepart295
+    100438: Sphere_fracturepart296
+    100440: Sphere_fracturepart297
+    100442: Sphere_fracturepart298
+    100444: Sphere_fracturepart299
+    100446: Sphere_fracturepart3
+    100448: Sphere_fracturepart30
+    100450: Sphere_fracturepart300
+    100452: Sphere_fracturepart31
+    100454: Sphere_fracturepart32
+    100456: Sphere_fracturepart33
+    100458: Sphere_fracturepart34
+    100460: Sphere_fracturepart35
+    100462: Sphere_fracturepart36
+    100464: Sphere_fracturepart37
+    100466: Sphere_fracturepart38
+    100468: Sphere_fracturepart39
+    100470: Sphere_fracturepart4
+    100472: Sphere_fracturepart40
+    100474: Sphere_fracturepart41
+    100476: Sphere_fracturepart42
+    100478: Sphere_fracturepart43
+    100480: Sphere_fracturepart44
+    100482: Sphere_fracturepart45
+    100484: Sphere_fracturepart46
+    100486: Sphere_fracturepart47
+    100488: Sphere_fracturepart48
+    100490: Sphere_fracturepart49
+    100492: Sphere_fracturepart5
+    100494: Sphere_fracturepart50
+    100496: Sphere_fracturepart51
+    100498: Sphere_fracturepart52
+    100500: Sphere_fracturepart53
+    100502: Sphere_fracturepart54
+    100504: Sphere_fracturepart55
+    100506: Sphere_fracturepart56
+    100508: Sphere_fracturepart57
+    100510: Sphere_fracturepart58
+    100512: Sphere_fracturepart59
+    100514: Sphere_fracturepart6
+    100516: Sphere_fracturepart60
+    100518: Sphere_fracturepart61
+    100520: Sphere_fracturepart62
+    100522: Sphere_fracturepart63
+    100524: Sphere_fracturepart64
+    100526: Sphere_fracturepart65
+    100528: Sphere_fracturepart66
+    100530: Sphere_fracturepart67
+    100532: Sphere_fracturepart68
+    100534: Sphere_fracturepart69
+    100536: Sphere_fracturepart7
+    100538: Sphere_fracturepart70
+    100540: Sphere_fracturepart71
+    100542: Sphere_fracturepart72
+    100544: Sphere_fracturepart73
+    100546: Sphere_fracturepart74
+    100548: Sphere_fracturepart75
+    100550: Sphere_fracturepart76
+    100552: Sphere_fracturepart77
+    100554: Sphere_fracturepart78
+    100556: Sphere_fracturepart79
+    100558: Sphere_fracturepart8
+    100560: Sphere_fracturepart80
+    100562: Sphere_fracturepart81
+    100564: Sphere_fracturepart82
+    100566: Sphere_fracturepart83
+    100568: Sphere_fracturepart84
+    100570: Sphere_fracturepart85
+    100572: Sphere_fracturepart86
+    100574: Sphere_fracturepart87
+    100576: Sphere_fracturepart88
+    100578: Sphere_fracturepart89
+    100580: Sphere_fracturepart9
+    100582: Sphere_fracturepart90
+    100584: Sphere_fracturepart91
+    100586: Sphere_fracturepart92
+    100588: Sphere_fracturepart93
+    100590: Sphere_fracturepart94
+    100592: Sphere_fracturepart95
+    100594: Sphere_fracturepart96
+    100596: Sphere_fracturepart97
+    100598: Sphere_fracturepart98
+    100600: Sphere_fracturepart99
+    400000: //RootNode
+    400002: Sphere_fracturepart1
+    400004: Sphere_fracturepart10
+    400006: Sphere_fracturepart100
+    400008: Sphere_fracturepart101
+    400010: Sphere_fracturepart102
+    400012: Sphere_fracturepart103
+    400014: Sphere_fracturepart104
+    400016: Sphere_fracturepart105
+    400018: Sphere_fracturepart106
+    400020: Sphere_fracturepart107
+    400022: Sphere_fracturepart108
+    400024: Sphere_fracturepart109
+    400026: Sphere_fracturepart11
+    400028: Sphere_fracturepart110
+    400030: Sphere_fracturepart111
+    400032: Sphere_fracturepart112
+    400034: Sphere_fracturepart113
+    400036: Sphere_fracturepart114
+    400038: Sphere_fracturepart115
+    400040: Sphere_fracturepart116
+    400042: Sphere_fracturepart117
+    400044: Sphere_fracturepart118
+    400046: Sphere_fracturepart119
+    400048: Sphere_fracturepart12
+    400050: Sphere_fracturepart120
+    400052: Sphere_fracturepart121
+    400054: Sphere_fracturepart122
+    400056: Sphere_fracturepart123
+    400058: Sphere_fracturepart124
+    400060: Sphere_fracturepart125
+    400062: Sphere_fracturepart126
+    400064: Sphere_fracturepart127
+    400066: Sphere_fracturepart128
+    400068: Sphere_fracturepart129
+    400070: Sphere_fracturepart13
+    400072: Sphere_fracturepart130
+    400074: Sphere_fracturepart131
+    400076: Sphere_fracturepart132
+    400078: Sphere_fracturepart133
+    400080: Sphere_fracturepart134
+    400082: Sphere_fracturepart135
+    400084: Sphere_fracturepart136
+    400086: Sphere_fracturepart137
+    400088: Sphere_fracturepart138
+    400090: Sphere_fracturepart139
+    400092: Sphere_fracturepart14
+    400094: Sphere_fracturepart140
+    400096: Sphere_fracturepart141
+    400098: Sphere_fracturepart142
+    400100: Sphere_fracturepart143
+    400102: Sphere_fracturepart144
+    400104: Sphere_fracturepart145
+    400106: Sphere_fracturepart146
+    400108: Sphere_fracturepart147
+    400110: Sphere_fracturepart148
+    400112: Sphere_fracturepart149
+    400114: Sphere_fracturepart15
+    400116: Sphere_fracturepart150
+    400118: Sphere_fracturepart151
+    400120: Sphere_fracturepart152
+    400122: Sphere_fracturepart153
+    400124: Sphere_fracturepart154
+    400126: Sphere_fracturepart155
+    400128: Sphere_fracturepart156
+    400130: Sphere_fracturepart157
+    400132: Sphere_fracturepart158
+    400134: Sphere_fracturepart159
+    400136: Sphere_fracturepart16
+    400138: Sphere_fracturepart160
+    400140: Sphere_fracturepart161
+    400142: Sphere_fracturepart162
+    400144: Sphere_fracturepart163
+    400146: Sphere_fracturepart164
+    400148: Sphere_fracturepart165
+    400150: Sphere_fracturepart166
+    400152: Sphere_fracturepart167
+    400154: Sphere_fracturepart168
+    400156: Sphere_fracturepart169
+    400158: Sphere_fracturepart17
+    400160: Sphere_fracturepart170
+    400162: Sphere_fracturepart171
+    400164: Sphere_fracturepart172
+    400166: Sphere_fracturepart173
+    400168: Sphere_fracturepart174
+    400170: Sphere_fracturepart175
+    400172: Sphere_fracturepart176
+    400174: Sphere_fracturepart177
+    400176: Sphere_fracturepart178
+    400178: Sphere_fracturepart179
+    400180: Sphere_fracturepart18
+    400182: Sphere_fracturepart180
+    400184: Sphere_fracturepart181
+    400186: Sphere_fracturepart182
+    400188: Sphere_fracturepart183
+    400190: Sphere_fracturepart184
+    400192: Sphere_fracturepart185
+    400194: Sphere_fracturepart186
+    400196: Sphere_fracturepart187
+    400198: Sphere_fracturepart188
+    400200: Sphere_fracturepart189
+    400202: Sphere_fracturepart19
+    400204: Sphere_fracturepart190
+    400206: Sphere_fracturepart191
+    400208: Sphere_fracturepart192
+    400210: Sphere_fracturepart193
+    400212: Sphere_fracturepart194
+    400214: Sphere_fracturepart195
+    400216: Sphere_fracturepart196
+    400218: Sphere_fracturepart197
+    400220: Sphere_fracturepart198
+    400222: Sphere_fracturepart199
+    400224: Sphere_fracturepart2
+    400226: Sphere_fracturepart20
+    400228: Sphere_fracturepart200
+    400230: Sphere_fracturepart201
+    400232: Sphere_fracturepart202
+    400234: Sphere_fracturepart203
+    400236: Sphere_fracturepart204
+    400238: Sphere_fracturepart205
+    400240: Sphere_fracturepart206
+    400242: Sphere_fracturepart207
+    400244: Sphere_fracturepart208
+    400246: Sphere_fracturepart209
+    400248: Sphere_fracturepart21
+    400250: Sphere_fracturepart210
+    400252: Sphere_fracturepart211
+    400254: Sphere_fracturepart212
+    400256: Sphere_fracturepart213
+    400258: Sphere_fracturepart214
+    400260: Sphere_fracturepart215
+    400262: Sphere_fracturepart216
+    400264: Sphere_fracturepart217
+    400266: Sphere_fracturepart218
+    400268: Sphere_fracturepart219
+    400270: Sphere_fracturepart22
+    400272: Sphere_fracturepart220
+    400274: Sphere_fracturepart221
+    400276: Sphere_fracturepart222
+    400278: Sphere_fracturepart223
+    400280: Sphere_fracturepart224
+    400282: Sphere_fracturepart225
+    400284: Sphere_fracturepart226
+    400286: Sphere_fracturepart227
+    400288: Sphere_fracturepart228
+    400290: Sphere_fracturepart229
+    400292: Sphere_fracturepart23
+    400294: Sphere_fracturepart230
+    400296: Sphere_fracturepart231
+    400298: Sphere_fracturepart232
+    400300: Sphere_fracturepart233
+    400302: Sphere_fracturepart234
+    400304: Sphere_fracturepart235
+    400306: Sphere_fracturepart236
+    400308: Sphere_fracturepart237
+    400310: Sphere_fracturepart238
+    400312: Sphere_fracturepart239
+    400314: Sphere_fracturepart24
+    400316: Sphere_fracturepart240
+    400318: Sphere_fracturepart241
+    400320: Sphere_fracturepart242
+    400322: Sphere_fracturepart243
+    400324: Sphere_fracturepart244
+    400326: Sphere_fracturepart245
+    400328: Sphere_fracturepart246
+    400330: Sphere_fracturepart247
+    400332: Sphere_fracturepart248
+    400334: Sphere_fracturepart249
+    400336: Sphere_fracturepart25
+    400338: Sphere_fracturepart250
+    400340: Sphere_fracturepart251
+    400342: Sphere_fracturepart252
+    400344: Sphere_fracturepart253
+    400346: Sphere_fracturepart254
+    400348: Sphere_fracturepart255
+    400350: Sphere_fracturepart256
+    400352: Sphere_fracturepart257
+    400354: Sphere_fracturepart258
+    400356: Sphere_fracturepart259
+    400358: Sphere_fracturepart26
+    400360: Sphere_fracturepart260
+    400362: Sphere_fracturepart261
+    400364: Sphere_fracturepart262
+    400366: Sphere_fracturepart263
+    400368: Sphere_fracturepart264
+    400370: Sphere_fracturepart265
+    400372: Sphere_fracturepart266
+    400374: Sphere_fracturepart267
+    400376: Sphere_fracturepart268
+    400378: Sphere_fracturepart269
+    400380: Sphere_fracturepart27
+    400382: Sphere_fracturepart270
+    400384: Sphere_fracturepart271
+    400386: Sphere_fracturepart272
+    400388: Sphere_fracturepart273
+    400390: Sphere_fracturepart274
+    400392: Sphere_fracturepart275
+    400394: Sphere_fracturepart276
+    400396: Sphere_fracturepart277
+    400398: Sphere_fracturepart278
+    400400: Sphere_fracturepart279
+    400402: Sphere_fracturepart28
+    400404: Sphere_fracturepart280
+    400406: Sphere_fracturepart281
+    400408: Sphere_fracturepart282
+    400410: Sphere_fracturepart283
+    400412: Sphere_fracturepart284
+    400414: Sphere_fracturepart285
+    400416: Sphere_fracturepart286
+    400418: Sphere_fracturepart287
+    400420: Sphere_fracturepart288
+    400422: Sphere_fracturepart289
+    400424: Sphere_fracturepart29
+    400426: Sphere_fracturepart290
+    400428: Sphere_fracturepart291
+    400430: Sphere_fracturepart292
+    400432: Sphere_fracturepart293
+    400434: Sphere_fracturepart294
+    400436: Sphere_fracturepart295
+    400438: Sphere_fracturepart296
+    400440: Sphere_fracturepart297
+    400442: Sphere_fracturepart298
+    400444: Sphere_fracturepart299
+    400446: Sphere_fracturepart3
+    400448: Sphere_fracturepart30
+    400450: Sphere_fracturepart300
+    400452: Sphere_fracturepart31
+    400454: Sphere_fracturepart32
+    400456: Sphere_fracturepart33
+    400458: Sphere_fracturepart34
+    400460: Sphere_fracturepart35
+    400462: Sphere_fracturepart36
+    400464: Sphere_fracturepart37
+    400466: Sphere_fracturepart38
+    400468: Sphere_fracturepart39
+    400470: Sphere_fracturepart4
+    400472: Sphere_fracturepart40
+    400474: Sphere_fracturepart41
+    400476: Sphere_fracturepart42
+    400478: Sphere_fracturepart43
+    400480: Sphere_fracturepart44
+    400482: Sphere_fracturepart45
+    400484: Sphere_fracturepart46
+    400486: Sphere_fracturepart47
+    400488: Sphere_fracturepart48
+    400490: Sphere_fracturepart49
+    400492: Sphere_fracturepart5
+    400494: Sphere_fracturepart50
+    400496: Sphere_fracturepart51
+    400498: Sphere_fracturepart52
+    400500: Sphere_fracturepart53
+    400502: Sphere_fracturepart54
+    400504: Sphere_fracturepart55
+    400506: Sphere_fracturepart56
+    400508: Sphere_fracturepart57
+    400510: Sphere_fracturepart58
+    400512: Sphere_fracturepart59
+    400514: Sphere_fracturepart6
+    400516: Sphere_fracturepart60
+    400518: Sphere_fracturepart61
+    400520: Sphere_fracturepart62
+    400522: Sphere_fracturepart63
+    400524: Sphere_fracturepart64
+    400526: Sphere_fracturepart65
+    400528: Sphere_fracturepart66
+    400530: Sphere_fracturepart67
+    400532: Sphere_fracturepart68
+    400534: Sphere_fracturepart69
+    400536: Sphere_fracturepart7
+    400538: Sphere_fracturepart70
+    400540: Sphere_fracturepart71
+    400542: Sphere_fracturepart72
+    400544: Sphere_fracturepart73
+    400546: Sphere_fracturepart74
+    400548: Sphere_fracturepart75
+    400550: Sphere_fracturepart76
+    400552: Sphere_fracturepart77
+    400554: Sphere_fracturepart78
+    400556: Sphere_fracturepart79
+    400558: Sphere_fracturepart8
+    400560: Sphere_fracturepart80
+    400562: Sphere_fracturepart81
+    400564: Sphere_fracturepart82
+    400566: Sphere_fracturepart83
+    400568: Sphere_fracturepart84
+    400570: Sphere_fracturepart85
+    400572: Sphere_fracturepart86
+    400574: Sphere_fracturepart87
+    400576: Sphere_fracturepart88
+    400578: Sphere_fracturepart89
+    400580: Sphere_fracturepart9
+    400582: Sphere_fracturepart90
+    400584: Sphere_fracturepart91
+    400586: Sphere_fracturepart92
+    400588: Sphere_fracturepart93
+    400590: Sphere_fracturepart94
+    400592: Sphere_fracturepart95
+    400594: Sphere_fracturepart96
+    400596: Sphere_fracturepart97
+    400598: Sphere_fracturepart98
+    400600: Sphere_fracturepart99
+    2300000: Sphere_fracturepart1
+    2300002: Sphere_fracturepart10
+    2300004: Sphere_fracturepart100
+    2300006: Sphere_fracturepart101
+    2300008: Sphere_fracturepart102
+    2300010: Sphere_fracturepart103
+    2300012: Sphere_fracturepart104
+    2300014: Sphere_fracturepart105
+    2300016: Sphere_fracturepart106
+    2300018: Sphere_fracturepart107
+    2300020: Sphere_fracturepart108
+    2300022: Sphere_fracturepart109
+    2300024: Sphere_fracturepart11
+    2300026: Sphere_fracturepart110
+    2300028: Sphere_fracturepart111
+    2300030: Sphere_fracturepart112
+    2300032: Sphere_fracturepart113
+    2300034: Sphere_fracturepart114
+    2300036: Sphere_fracturepart115
+    2300038: Sphere_fracturepart116
+    2300040: Sphere_fracturepart117
+    2300042: Sphere_fracturepart118
+    2300044: Sphere_fracturepart119
+    2300046: Sphere_fracturepart12
+    2300048: Sphere_fracturepart120
+    2300050: Sphere_fracturepart121
+    2300052: Sphere_fracturepart122
+    2300054: Sphere_fracturepart123
+    2300056: Sphere_fracturepart124
+    2300058: Sphere_fracturepart125
+    2300060: Sphere_fracturepart126
+    2300062: Sphere_fracturepart127
+    2300064: Sphere_fracturepart128
+    2300066: Sphere_fracturepart129
+    2300068: Sphere_fracturepart13
+    2300070: Sphere_fracturepart130
+    2300072: Sphere_fracturepart131
+    2300074: Sphere_fracturepart132
+    2300076: Sphere_fracturepart133
+    2300078: Sphere_fracturepart134
+    2300080: Sphere_fracturepart135
+    2300082: Sphere_fracturepart136
+    2300084: Sphere_fracturepart137
+    2300086: Sphere_fracturepart138
+    2300088: Sphere_fracturepart139
+    2300090: Sphere_fracturepart14
+    2300092: Sphere_fracturepart140
+    2300094: Sphere_fracturepart141
+    2300096: Sphere_fracturepart142
+    2300098: Sphere_fracturepart143
+    2300100: Sphere_fracturepart144
+    2300102: Sphere_fracturepart145
+    2300104: Sphere_fracturepart146
+    2300106: Sphere_fracturepart147
+    2300108: Sphere_fracturepart148
+    2300110: Sphere_fracturepart149
+    2300112: Sphere_fracturepart15
+    2300114: Sphere_fracturepart150
+    2300116: Sphere_fracturepart151
+    2300118: Sphere_fracturepart152
+    2300120: Sphere_fracturepart153
+    2300122: Sphere_fracturepart154
+    2300124: Sphere_fracturepart155
+    2300126: Sphere_fracturepart156
+    2300128: Sphere_fracturepart157
+    2300130: Sphere_fracturepart158
+    2300132: Sphere_fracturepart159
+    2300134: Sphere_fracturepart16
+    2300136: Sphere_fracturepart160
+    2300138: Sphere_fracturepart161
+    2300140: Sphere_fracturepart162
+    2300142: Sphere_fracturepart163
+    2300144: Sphere_fracturepart164
+    2300146: Sphere_fracturepart165
+    2300148: Sphere_fracturepart166
+    2300150: Sphere_fracturepart167
+    2300152: Sphere_fracturepart168
+    2300154: Sphere_fracturepart169
+    2300156: Sphere_fracturepart17
+    2300158: Sphere_fracturepart170
+    2300160: Sphere_fracturepart171
+    2300162: Sphere_fracturepart172
+    2300164: Sphere_fracturepart173
+    2300166: Sphere_fracturepart174
+    2300168: Sphere_fracturepart175
+    2300170: Sphere_fracturepart176
+    2300172: Sphere_fracturepart177
+    2300174: Sphere_fracturepart178
+    2300176: Sphere_fracturepart179
+    2300178: Sphere_fracturepart18
+    2300180: Sphere_fracturepart180
+    2300182: Sphere_fracturepart181
+    2300184: Sphere_fracturepart182
+    2300186: Sphere_fracturepart183
+    2300188: Sphere_fracturepart184
+    2300190: Sphere_fracturepart185
+    2300192: Sphere_fracturepart186
+    2300194: Sphere_fracturepart187
+    2300196: Sphere_fracturepart188
+    2300198: Sphere_fracturepart189
+    2300200: Sphere_fracturepart19
+    2300202: Sphere_fracturepart190
+    2300204: Sphere_fracturepart191
+    2300206: Sphere_fracturepart192
+    2300208: Sphere_fracturepart193
+    2300210: Sphere_fracturepart194
+    2300212: Sphere_fracturepart195
+    2300214: Sphere_fracturepart196
+    2300216: Sphere_fracturepart197
+    2300218: Sphere_fracturepart198
+    2300220: Sphere_fracturepart199
+    2300222: Sphere_fracturepart2
+    2300224: Sphere_fracturepart20
+    2300226: Sphere_fracturepart200
+    2300228: Sphere_fracturepart201
+    2300230: Sphere_fracturepart202
+    2300232: Sphere_fracturepart203
+    2300234: Sphere_fracturepart204
+    2300236: Sphere_fracturepart205
+    2300238: Sphere_fracturepart206
+    2300240: Sphere_fracturepart207
+    2300242: Sphere_fracturepart208
+    2300244: Sphere_fracturepart209
+    2300246: Sphere_fracturepart21
+    2300248: Sphere_fracturepart210
+    2300250: Sphere_fracturepart211
+    2300252: Sphere_fracturepart212
+    2300254: Sphere_fracturepart213
+    2300256: Sphere_fracturepart214
+    2300258: Sphere_fracturepart215
+    2300260: Sphere_fracturepart216
+    2300262: Sphere_fracturepart217
+    2300264: Sphere_fracturepart218
+    2300266: Sphere_fracturepart219
+    2300268: Sphere_fracturepart22
+    2300270: Sphere_fracturepart220
+    2300272: Sphere_fracturepart221
+    2300274: Sphere_fracturepart222
+    2300276: Sphere_fracturepart223
+    2300278: Sphere_fracturepart224
+    2300280: Sphere_fracturepart225
+    2300282: Sphere_fracturepart226
+    2300284: Sphere_fracturepart227
+    2300286: Sphere_fracturepart228
+    2300288: Sphere_fracturepart229
+    2300290: Sphere_fracturepart23
+    2300292: Sphere_fracturepart230
+    2300294: Sphere_fracturepart231
+    2300296: Sphere_fracturepart232
+    2300298: Sphere_fracturepart233
+    2300300: Sphere_fracturepart234
+    2300302: Sphere_fracturepart235
+    2300304: Sphere_fracturepart236
+    2300306: Sphere_fracturepart237
+    2300308: Sphere_fracturepart238
+    2300310: Sphere_fracturepart239
+    2300312: Sphere_fracturepart24
+    2300314: Sphere_fracturepart240
+    2300316: Sphere_fracturepart241
+    2300318: Sphere_fracturepart242
+    2300320: Sphere_fracturepart243
+    2300322: Sphere_fracturepart244
+    2300324: Sphere_fracturepart245
+    2300326: Sphere_fracturepart246
+    2300328: Sphere_fracturepart247
+    2300330: Sphere_fracturepart248
+    2300332: Sphere_fracturepart249
+    2300334: Sphere_fracturepart25
+    2300336: Sphere_fracturepart250
+    2300338: Sphere_fracturepart251
+    2300340: Sphere_fracturepart252
+    2300342: Sphere_fracturepart253
+    2300344: Sphere_fracturepart254
+    2300346: Sphere_fracturepart255
+    2300348: Sphere_fracturepart256
+    2300350: Sphere_fracturepart257
+    2300352: Sphere_fracturepart258
+    2300354: Sphere_fracturepart259
+    2300356: Sphere_fracturepart26
+    2300358: Sphere_fracturepart260
+    2300360: Sphere_fracturepart261
+    2300362: Sphere_fracturepart262
+    2300364: Sphere_fracturepart263
+    2300366: Sphere_fracturepart264
+    2300368: Sphere_fracturepart265
+    2300370: Sphere_fracturepart266
+    2300372: Sphere_fracturepart267
+    2300374: Sphere_fracturepart268
+    2300376: Sphere_fracturepart269
+    2300378: Sphere_fracturepart27
+    2300380: Sphere_fracturepart270
+    2300382: Sphere_fracturepart271
+    2300384: Sphere_fracturepart272
+    2300386: Sphere_fracturepart273
+    2300388: Sphere_fracturepart274
+    2300390: Sphere_fracturepart275
+    2300392: Sphere_fracturepart276
+    2300394: Sphere_fracturepart277
+    2300396: Sphere_fracturepart278
+    2300398: Sphere_fracturepart279
+    2300400: Sphere_fracturepart28
+    2300402: Sphere_fracturepart280
+    2300404: Sphere_fracturepart281
+    2300406: Sphere_fracturepart282
+    2300408: Sphere_fracturepart283
+    2300410: Sphere_fracturepart284
+    2300412: Sphere_fracturepart285
+    2300414: Sphere_fracturepart286
+    2300416: Sphere_fracturepart287
+    2300418: Sphere_fracturepart288
+    2300420: Sphere_fracturepart289
+    2300422: Sphere_fracturepart29
+    2300424: Sphere_fracturepart290
+    2300426: Sphere_fracturepart291
+    2300428: Sphere_fracturepart292
+    2300430: Sphere_fracturepart293
+    2300432: Sphere_fracturepart294
+    2300434: Sphere_fracturepart295
+    2300436: Sphere_fracturepart296
+    2300438: Sphere_fracturepart297
+    2300440: Sphere_fracturepart298
+    2300442: Sphere_fracturepart299
+    2300444: Sphere_fracturepart3
+    2300446: Sphere_fracturepart30
+    2300448: Sphere_fracturepart300
+    2300450: Sphere_fracturepart31
+    2300452: Sphere_fracturepart32
+    2300454: Sphere_fracturepart33
+    2300456: Sphere_fracturepart34
+    2300458: Sphere_fracturepart35
+    2300460: Sphere_fracturepart36
+    2300462: Sphere_fracturepart37
+    2300464: Sphere_fracturepart38
+    2300466: Sphere_fracturepart39
+    2300468: Sphere_fracturepart4
+    2300470: Sphere_fracturepart40
+    2300472: Sphere_fracturepart41
+    2300474: Sphere_fracturepart42
+    2300476: Sphere_fracturepart43
+    2300478: Sphere_fracturepart44
+    2300480: Sphere_fracturepart45
+    2300482: Sphere_fracturepart46
+    2300484: Sphere_fracturepart47
+    2300486: Sphere_fracturepart48
+    2300488: Sphere_fracturepart49
+    2300490: Sphere_fracturepart5
+    2300492: Sphere_fracturepart50
+    2300494: Sphere_fracturepart51
+    2300496: Sphere_fracturepart52
+    2300498: Sphere_fracturepart53
+    2300500: Sphere_fracturepart54
+    2300502: Sphere_fracturepart55
+    2300504: Sphere_fracturepart56
+    2300506: Sphere_fracturepart57
+    2300508: Sphere_fracturepart58
+    2300510: Sphere_fracturepart59
+    2300512: Sphere_fracturepart6
+    2300514: Sphere_fracturepart60
+    2300516: Sphere_fracturepart61
+    2300518: Sphere_fracturepart62
+    2300520: Sphere_fracturepart63
+    2300522: Sphere_fracturepart64
+    2300524: Sphere_fracturepart65
+    2300526: Sphere_fracturepart66
+    2300528: Sphere_fracturepart67
+    2300530: Sphere_fracturepart68
+    2300532: Sphere_fracturepart69
+    2300534: Sphere_fracturepart7
+    2300536: Sphere_fracturepart70
+    2300538: Sphere_fracturepart71
+    2300540: Sphere_fracturepart72
+    2300542: Sphere_fracturepart73
+    2300544: Sphere_fracturepart74
+    2300546: Sphere_fracturepart75
+    2300548: Sphere_fracturepart76
+    2300550: Sphere_fracturepart77
+    2300552: Sphere_fracturepart78
+    2300554: Sphere_fracturepart79
+    2300556: Sphere_fracturepart8
+    2300558: Sphere_fracturepart80
+    2300560: Sphere_fracturepart81
+    2300562: Sphere_fracturepart82
+    2300564: Sphere_fracturepart83
+    2300566: Sphere_fracturepart84
+    2300568: Sphere_fracturepart85
+    2300570: Sphere_fracturepart86
+    2300572: Sphere_fracturepart87
+    2300574: Sphere_fracturepart88
+    2300576: Sphere_fracturepart89
+    2300578: Sphere_fracturepart9
+    2300580: Sphere_fracturepart90
+    2300582: Sphere_fracturepart91
+    2300584: Sphere_fracturepart92
+    2300586: Sphere_fracturepart93
+    2300588: Sphere_fracturepart94
+    2300590: Sphere_fracturepart95
+    2300592: Sphere_fracturepart96
+    2300594: Sphere_fracturepart97
+    2300596: Sphere_fracturepart98
+    2300598: Sphere_fracturepart99
+    3300000: Sphere_fracturepart1
+    3300002: Sphere_fracturepart10
+    3300004: Sphere_fracturepart100
+    3300006: Sphere_fracturepart101
+    3300008: Sphere_fracturepart102
+    3300010: Sphere_fracturepart103
+    3300012: Sphere_fracturepart104
+    3300014: Sphere_fracturepart105
+    3300016: Sphere_fracturepart106
+    3300018: Sphere_fracturepart107
+    3300020: Sphere_fracturepart108
+    3300022: Sphere_fracturepart109
+    3300024: Sphere_fracturepart11
+    3300026: Sphere_fracturepart110
+    3300028: Sphere_fracturepart111
+    3300030: Sphere_fracturepart112
+    3300032: Sphere_fracturepart113
+    3300034: Sphere_fracturepart114
+    3300036: Sphere_fracturepart115
+    3300038: Sphere_fracturepart116
+    3300040: Sphere_fracturepart117
+    3300042: Sphere_fracturepart118
+    3300044: Sphere_fracturepart119
+    3300046: Sphere_fracturepart12
+    3300048: Sphere_fracturepart120
+    3300050: Sphere_fracturepart121
+    3300052: Sphere_fracturepart122
+    3300054: Sphere_fracturepart123
+    3300056: Sphere_fracturepart124
+    3300058: Sphere_fracturepart125
+    3300060: Sphere_fracturepart126
+    3300062: Sphere_fracturepart127
+    3300064: Sphere_fracturepart128
+    3300066: Sphere_fracturepart129
+    3300068: Sphere_fracturepart13
+    3300070: Sphere_fracturepart130
+    3300072: Sphere_fracturepart131
+    3300074: Sphere_fracturepart132
+    3300076: Sphere_fracturepart133
+    3300078: Sphere_fracturepart134
+    3300080: Sphere_fracturepart135
+    3300082: Sphere_fracturepart136
+    3300084: Sphere_fracturepart137
+    3300086: Sphere_fracturepart138
+    3300088: Sphere_fracturepart139
+    3300090: Sphere_fracturepart14
+    3300092: Sphere_fracturepart140
+    3300094: Sphere_fracturepart141
+    3300096: Sphere_fracturepart142
+    3300098: Sphere_fracturepart143
+    3300100: Sphere_fracturepart144
+    3300102: Sphere_fracturepart145
+    3300104: Sphere_fracturepart146
+    3300106: Sphere_fracturepart147
+    3300108: Sphere_fracturepart148
+    3300110: Sphere_fracturepart149
+    3300112: Sphere_fracturepart15
+    3300114: Sphere_fracturepart150
+    3300116: Sphere_fracturepart151
+    3300118: Sphere_fracturepart152
+    3300120: Sphere_fracturepart153
+    3300122: Sphere_fracturepart154
+    3300124: Sphere_fracturepart155
+    3300126: Sphere_fracturepart156
+    3300128: Sphere_fracturepart157
+    3300130: Sphere_fracturepart158
+    3300132: Sphere_fracturepart159
+    3300134: Sphere_fracturepart16
+    3300136: Sphere_fracturepart160
+    3300138: Sphere_fracturepart161
+    3300140: Sphere_fracturepart162
+    3300142: Sphere_fracturepart163
+    3300144: Sphere_fracturepart164
+    3300146: Sphere_fracturepart165
+    3300148: Sphere_fracturepart166
+    3300150: Sphere_fracturepart167
+    3300152: Sphere_fracturepart168
+    3300154: Sphere_fracturepart169
+    3300156: Sphere_fracturepart17
+    3300158: Sphere_fracturepart170
+    3300160: Sphere_fracturepart171
+    3300162: Sphere_fracturepart172
+    3300164: Sphere_fracturepart173
+    3300166: Sphere_fracturepart174
+    3300168: Sphere_fracturepart175
+    3300170: Sphere_fracturepart176
+    3300172: Sphere_fracturepart177
+    3300174: Sphere_fracturepart178
+    3300176: Sphere_fracturepart179
+    3300178: Sphere_fracturepart18
+    3300180: Sphere_fracturepart180
+    3300182: Sphere_fracturepart181
+    3300184: Sphere_fracturepart182
+    3300186: Sphere_fracturepart183
+    3300188: Sphere_fracturepart184
+    3300190: Sphere_fracturepart185
+    3300192: Sphere_fracturepart186
+    3300194: Sphere_fracturepart187
+    3300196: Sphere_fracturepart188
+    3300198: Sphere_fracturepart189
+    3300200: Sphere_fracturepart19
+    3300202: Sphere_fracturepart190
+    3300204: Sphere_fracturepart191
+    3300206: Sphere_fracturepart192
+    3300208: Sphere_fracturepart193
+    3300210: Sphere_fracturepart194
+    3300212: Sphere_fracturepart195
+    3300214: Sphere_fracturepart196
+    3300216: Sphere_fracturepart197
+    3300218: Sphere_fracturepart198
+    3300220: Sphere_fracturepart199
+    3300222: Sphere_fracturepart2
+    3300224: Sphere_fracturepart20
+    3300226: Sphere_fracturepart200
+    3300228: Sphere_fracturepart201
+    3300230: Sphere_fracturepart202
+    3300232: Sphere_fracturepart203
+    3300234: Sphere_fracturepart204
+    3300236: Sphere_fracturepart205
+    3300238: Sphere_fracturepart206
+    3300240: Sphere_fracturepart207
+    3300242: Sphere_fracturepart208
+    3300244: Sphere_fracturepart209
+    3300246: Sphere_fracturepart21
+    3300248: Sphere_fracturepart210
+    3300250: Sphere_fracturepart211
+    3300252: Sphere_fracturepart212
+    3300254: Sphere_fracturepart213
+    3300256: Sphere_fracturepart214
+    3300258: Sphere_fracturepart215
+    3300260: Sphere_fracturepart216
+    3300262: Sphere_fracturepart217
+    3300264: Sphere_fracturepart218
+    3300266: Sphere_fracturepart219
+    3300268: Sphere_fracturepart22
+    3300270: Sphere_fracturepart220
+    3300272: Sphere_fracturepart221
+    3300274: Sphere_fracturepart222
+    3300276: Sphere_fracturepart223
+    3300278: Sphere_fracturepart224
+    3300280: Sphere_fracturepart225
+    3300282: Sphere_fracturepart226
+    3300284: Sphere_fracturepart227
+    3300286: Sphere_fracturepart228
+    3300288: Sphere_fracturepart229
+    3300290: Sphere_fracturepart23
+    3300292: Sphere_fracturepart230
+    3300294: Sphere_fracturepart231
+    3300296: Sphere_fracturepart232
+    3300298: Sphere_fracturepart233
+    3300300: Sphere_fracturepart234
+    3300302: Sphere_fracturepart235
+    3300304: Sphere_fracturepart236
+    3300306: Sphere_fracturepart237
+    3300308: Sphere_fracturepart238
+    3300310: Sphere_fracturepart239
+    3300312: Sphere_fracturepart24
+    3300314: Sphere_fracturepart240
+    3300316: Sphere_fracturepart241
+    3300318: Sphere_fracturepart242
+    3300320: Sphere_fracturepart243
+    3300322: Sphere_fracturepart244
+    3300324: Sphere_fracturepart245
+    3300326: Sphere_fracturepart246
+    3300328: Sphere_fracturepart247
+    3300330: Sphere_fracturepart248
+    3300332: Sphere_fracturepart249
+    3300334: Sphere_fracturepart25
+    3300336: Sphere_fracturepart250
+    3300338: Sphere_fracturepart251
+    3300340: Sphere_fracturepart252
+    3300342: Sphere_fracturepart253
+    3300344: Sphere_fracturepart254
+    3300346: Sphere_fracturepart255
+    3300348: Sphere_fracturepart256
+    3300350: Sphere_fracturepart257
+    3300352: Sphere_fracturepart258
+    3300354: Sphere_fracturepart259
+    3300356: Sphere_fracturepart26
+    3300358: Sphere_fracturepart260
+    3300360: Sphere_fracturepart261
+    3300362: Sphere_fracturepart262
+    3300364: Sphere_fracturepart263
+    3300366: Sphere_fracturepart264
+    3300368: Sphere_fracturepart265
+    3300370: Sphere_fracturepart266
+    3300372: Sphere_fracturepart267
+    3300374: Sphere_fracturepart268
+    3300376: Sphere_fracturepart269
+    3300378: Sphere_fracturepart27
+    3300380: Sphere_fracturepart270
+    3300382: Sphere_fracturepart271
+    3300384: Sphere_fracturepart272
+    3300386: Sphere_fracturepart273
+    3300388: Sphere_fracturepart274
+    3300390: Sphere_fracturepart275
+    3300392: Sphere_fracturepart276
+    3300394: Sphere_fracturepart277
+    3300396: Sphere_fracturepart278
+    3300398: Sphere_fracturepart279
+    3300400: Sphere_fracturepart28
+    3300402: Sphere_fracturepart280
+    3300404: Sphere_fracturepart281
+    3300406: Sphere_fracturepart282
+    3300408: Sphere_fracturepart283
+    3300410: Sphere_fracturepart284
+    3300412: Sphere_fracturepart285
+    3300414: Sphere_fracturepart286
+    3300416: Sphere_fracturepart287
+    3300418: Sphere_fracturepart288
+    3300420: Sphere_fracturepart289
+    3300422: Sphere_fracturepart29
+    3300424: Sphere_fracturepart290
+    3300426: Sphere_fracturepart291
+    3300428: Sphere_fracturepart292
+    3300430: Sphere_fracturepart293
+    3300432: Sphere_fracturepart294
+    3300434: Sphere_fracturepart295
+    3300436: Sphere_fracturepart296
+    3300438: Sphere_fracturepart297
+    3300440: Sphere_fracturepart298
+    3300442: Sphere_fracturepart299
+    3300444: Sphere_fracturepart3
+    3300446: Sphere_fracturepart30
+    3300448: Sphere_fracturepart300
+    3300450: Sphere_fracturepart31
+    3300452: Sphere_fracturepart32
+    3300454: Sphere_fracturepart33
+    3300456: Sphere_fracturepart34
+    3300458: Sphere_fracturepart35
+    3300460: Sphere_fracturepart36
+    3300462: Sphere_fracturepart37
+    3300464: Sphere_fracturepart38
+    3300466: Sphere_fracturepart39
+    3300468: Sphere_fracturepart4
+    3300470: Sphere_fracturepart40
+    3300472: Sphere_fracturepart41
+    3300474: Sphere_fracturepart42
+    3300476: Sphere_fracturepart43
+    3300478: Sphere_fracturepart44
+    3300480: Sphere_fracturepart45
+    3300482: Sphere_fracturepart46
+    3300484: Sphere_fracturepart47
+    3300486: Sphere_fracturepart48
+    3300488: Sphere_fracturepart49
+    3300490: Sphere_fracturepart5
+    3300492: Sphere_fracturepart50
+    3300494: Sphere_fracturepart51
+    3300496: Sphere_fracturepart52
+    3300498: Sphere_fracturepart53
+    3300500: Sphere_fracturepart54
+    3300502: Sphere_fracturepart55
+    3300504: Sphere_fracturepart56
+    3300506: Sphere_fracturepart57
+    3300508: Sphere_fracturepart58
+    3300510: Sphere_fracturepart59
+    3300512: Sphere_fracturepart6
+    3300514: Sphere_fracturepart60
+    3300516: Sphere_fracturepart61
+    3300518: Sphere_fracturepart62
+    3300520: Sphere_fracturepart63
+    3300522: Sphere_fracturepart64
+    3300524: Sphere_fracturepart65
+    3300526: Sphere_fracturepart66
+    3300528: Sphere_fracturepart67
+    3300530: Sphere_fracturepart68
+    3300532: Sphere_fracturepart69
+    3300534: Sphere_fracturepart7
+    3300536: Sphere_fracturepart70
+    3300538: Sphere_fracturepart71
+    3300540: Sphere_fracturepart72
+    3300542: Sphere_fracturepart73
+    3300544: Sphere_fracturepart74
+    3300546: Sphere_fracturepart75
+    3300548: Sphere_fracturepart76
+    3300550: Sphere_fracturepart77
+    3300552: Sphere_fracturepart78
+    3300554: Sphere_fracturepart79
+    3300556: Sphere_fracturepart8
+    3300558: Sphere_fracturepart80
+    3300560: Sphere_fracturepart81
+    3300562: Sphere_fracturepart82
+    3300564: Sphere_fracturepart83
+    3300566: Sphere_fracturepart84
+    3300568: Sphere_fracturepart85
+    3300570: Sphere_fracturepart86
+    3300572: Sphere_fracturepart87
+    3300574: Sphere_fracturepart88
+    3300576: Sphere_fracturepart89
+    3300578: Sphere_fracturepart9
+    3300580: Sphere_fracturepart90
+    3300582: Sphere_fracturepart91
+    3300584: Sphere_fracturepart92
+    3300586: Sphere_fracturepart93
+    3300588: Sphere_fracturepart94
+    3300590: Sphere_fracturepart95
+    3300592: Sphere_fracturepart96
+    3300594: Sphere_fracturepart97
+    3300596: Sphere_fracturepart98
+    3300598: Sphere_fracturepart99
+    4300000: Sphere_fracturepart1
+    4300002: Sphere_fracturepart2
+    4300004: Sphere_fracturepart3
+    4300006: Sphere_fracturepart4
+    4300008: Sphere_fracturepart5
+    4300010: Sphere_fracturepart6
+    4300012: Sphere_fracturepart7
+    4300014: Sphere_fracturepart8
+    4300016: Sphere_fracturepart9
+    4300018: Sphere_fracturepart10
+    4300020: Sphere_fracturepart11
+    4300022: Sphere_fracturepart12
+    4300024: Sphere_fracturepart13
+    4300026: Sphere_fracturepart14
+    4300028: Sphere_fracturepart15
+    4300030: Sphere_fracturepart16
+    4300032: Sphere_fracturepart17
+    4300034: Sphere_fracturepart18
+    4300036: Sphere_fracturepart19
+    4300038: Sphere_fracturepart20
+    4300040: Sphere_fracturepart21
+    4300042: Sphere_fracturepart22
+    4300044: Sphere_fracturepart23
+    4300046: Sphere_fracturepart24
+    4300048: Sphere_fracturepart25
+    4300050: Sphere_fracturepart26
+    4300052: Sphere_fracturepart27
+    4300054: Sphere_fracturepart28
+    4300056: Sphere_fracturepart29
+    4300058: Sphere_fracturepart30
+    4300060: Sphere_fracturepart31
+    4300062: Sphere_fracturepart32
+    4300064: Sphere_fracturepart33
+    4300066: Sphere_fracturepart34
+    4300068: Sphere_fracturepart35
+    4300070: Sphere_fracturepart36
+    4300072: Sphere_fracturepart37
+    4300074: Sphere_fracturepart38
+    4300076: Sphere_fracturepart39
+    4300078: Sphere_fracturepart40
+    4300080: Sphere_fracturepart41
+    4300082: Sphere_fracturepart42
+    4300084: Sphere_fracturepart43
+    4300086: Sphere_fracturepart44
+    4300088: Sphere_fracturepart45
+    4300090: Sphere_fracturepart46
+    4300092: Sphere_fracturepart47
+    4300094: Sphere_fracturepart48
+    4300096: Sphere_fracturepart49
+    4300098: Sphere_fracturepart50
+    4300100: Sphere_fracturepart51
+    4300102: Sphere_fracturepart52
+    4300104: Sphere_fracturepart53
+    4300106: Sphere_fracturepart54
+    4300108: Sphere_fracturepart55
+    4300110: Sphere_fracturepart56
+    4300112: Sphere_fracturepart57
+    4300114: Sphere_fracturepart58
+    4300116: Sphere_fracturepart59
+    4300118: Sphere_fracturepart60
+    4300120: Sphere_fracturepart61
+    4300122: Sphere_fracturepart62
+    4300124: Sphere_fracturepart63
+    4300126: Sphere_fracturepart64
+    4300128: Sphere_fracturepart65
+    4300130: Sphere_fracturepart66
+    4300132: Sphere_fracturepart67
+    4300134: Sphere_fracturepart68
+    4300136: Sphere_fracturepart69
+    4300138: Sphere_fracturepart70
+    4300140: Sphere_fracturepart71
+    4300142: Sphere_fracturepart72
+    4300144: Sphere_fracturepart73
+    4300146: Sphere_fracturepart74
+    4300148: Sphere_fracturepart75
+    4300150: Sphere_fracturepart76
+    4300152: Sphere_fracturepart77
+    4300154: Sphere_fracturepart78
+    4300156: Sphere_fracturepart79
+    4300158: Sphere_fracturepart80
+    4300160: Sphere_fracturepart81
+    4300162: Sphere_fracturepart82
+    4300164: Sphere_fracturepart83
+    4300166: Sphere_fracturepart84
+    4300168: Sphere_fracturepart85
+    4300170: Sphere_fracturepart86
+    4300172: Sphere_fracturepart87
+    4300174: Sphere_fracturepart88
+    4300176: Sphere_fracturepart89
+    4300178: Sphere_fracturepart90
+    4300180: Sphere_fracturepart91
+    4300182: Sphere_fracturepart92
+    4300184: Sphere_fracturepart93
+    4300186: Sphere_fracturepart94
+    4300188: Sphere_fracturepart95
+    4300190: Sphere_fracturepart96
+    4300192: Sphere_fracturepart97
+    4300194: Sphere_fracturepart98
+    4300196: Sphere_fracturepart99
+    4300198: Sphere_fracturepart100
+    4300200: Sphere_fracturepart101
+    4300202: Sphere_fracturepart102
+    4300204: Sphere_fracturepart103
+    4300206: Sphere_fracturepart104
+    4300208: Sphere_fracturepart105
+    4300210: Sphere_fracturepart106
+    4300212: Sphere_fracturepart107
+    4300214: Sphere_fracturepart108
+    4300216: Sphere_fracturepart109
+    4300218: Sphere_fracturepart110
+    4300220: Sphere_fracturepart111
+    4300222: Sphere_fracturepart112
+    4300224: Sphere_fracturepart113
+    4300226: Sphere_fracturepart114
+    4300228: Sphere_fracturepart115
+    4300230: Sphere_fracturepart116
+    4300232: Sphere_fracturepart117
+    4300234: Sphere_fracturepart118
+    4300236: Sphere_fracturepart119
+    4300238: Sphere_fracturepart120
+    4300240: Sphere_fracturepart121
+    4300242: Sphere_fracturepart122
+    4300244: Sphere_fracturepart123
+    4300246: Sphere_fracturepart124
+    4300248: Sphere_fracturepart125
+    4300250: Sphere_fracturepart126
+    4300252: Sphere_fracturepart127
+    4300254: Sphere_fracturepart128
+    4300256: Sphere_fracturepart129
+    4300258: Sphere_fracturepart130
+    4300260: Sphere_fracturepart131
+    4300262: Sphere_fracturepart132
+    4300264: Sphere_fracturepart133
+    4300266: Sphere_fracturepart134
+    4300268: Sphere_fracturepart135
+    4300270: Sphere_fracturepart136
+    4300272: Sphere_fracturepart137
+    4300274: Sphere_fracturepart138
+    4300276: Sphere_fracturepart139
+    4300278: Sphere_fracturepart140
+    4300280: Sphere_fracturepart141
+    4300282: Sphere_fracturepart142
+    4300284: Sphere_fracturepart143
+    4300286: Sphere_fracturepart144
+    4300288: Sphere_fracturepart145
+    4300290: Sphere_fracturepart146
+    4300292: Sphere_fracturepart147
+    4300294: Sphere_fracturepart148
+    4300296: Sphere_fracturepart149
+    4300298: Sphere_fracturepart150
+    4300300: Sphere_fracturepart151
+    4300302: Sphere_fracturepart152
+    4300304: Sphere_fracturepart153
+    4300306: Sphere_fracturepart154
+    4300308: Sphere_fracturepart155
+    4300310: Sphere_fracturepart156
+    4300312: Sphere_fracturepart157
+    4300314: Sphere_fracturepart158
+    4300316: Sphere_fracturepart159
+    4300318: Sphere_fracturepart160
+    4300320: Sphere_fracturepart161
+    4300322: Sphere_fracturepart162
+    4300324: Sphere_fracturepart163
+    4300326: Sphere_fracturepart164
+    4300328: Sphere_fracturepart165
+    4300330: Sphere_fracturepart166
+    4300332: Sphere_fracturepart167
+    4300334: Sphere_fracturepart168
+    4300336: Sphere_fracturepart169
+    4300338: Sphere_fracturepart170
+    4300340: Sphere_fracturepart171
+    4300342: Sphere_fracturepart172
+    4300344: Sphere_fracturepart173
+    4300346: Sphere_fracturepart174
+    4300348: Sphere_fracturepart175
+    4300350: Sphere_fracturepart176
+    4300352: Sphere_fracturepart177
+    4300354: Sphere_fracturepart178
+    4300356: Sphere_fracturepart179
+    4300358: Sphere_fracturepart180
+    4300360: Sphere_fracturepart181
+    4300362: Sphere_fracturepart182
+    4300364: Sphere_fracturepart183
+    4300366: Sphere_fracturepart184
+    4300368: Sphere_fracturepart185
+    4300370: Sphere_fracturepart186
+    4300372: Sphere_fracturepart187
+    4300374: Sphere_fracturepart188
+    4300376: Sphere_fracturepart189
+    4300378: Sphere_fracturepart190
+    4300380: Sphere_fracturepart191
+    4300382: Sphere_fracturepart192
+    4300384: Sphere_fracturepart193
+    4300386: Sphere_fracturepart194
+    4300388: Sphere_fracturepart195
+    4300390: Sphere_fracturepart196
+    4300392: Sphere_fracturepart197
+    4300394: Sphere_fracturepart198
+    4300396: Sphere_fracturepart199
+    4300398: Sphere_fracturepart200
+    4300400: Sphere_fracturepart201
+    4300402: Sphere_fracturepart202
+    4300404: Sphere_fracturepart203
+    4300406: Sphere_fracturepart204
+    4300408: Sphere_fracturepart205
+    4300410: Sphere_fracturepart206
+    4300412: Sphere_fracturepart207
+    4300414: Sphere_fracturepart208
+    4300416: Sphere_fracturepart209
+    4300418: Sphere_fracturepart210
+    4300420: Sphere_fracturepart211
+    4300422: Sphere_fracturepart212
+    4300424: Sphere_fracturepart213
+    4300426: Sphere_fracturepart214
+    4300428: Sphere_fracturepart215
+    4300430: Sphere_fracturepart216
+    4300432: Sphere_fracturepart217
+    4300434: Sphere_fracturepart218
+    4300436: Sphere_fracturepart219
+    4300438: Sphere_fracturepart220
+    4300440: Sphere_fracturepart221
+    4300442: Sphere_fracturepart222
+    4300444: Sphere_fracturepart223
+    4300446: Sphere_fracturepart224
+    4300448: Sphere_fracturepart225
+    4300450: Sphere_fracturepart226
+    4300452: Sphere_fracturepart227
+    4300454: Sphere_fracturepart228
+    4300456: Sphere_fracturepart229
+    4300458: Sphere_fracturepart230
+    4300460: Sphere_fracturepart231
+    4300462: Sphere_fracturepart232
+    4300464: Sphere_fracturepart233
+    4300466: Sphere_fracturepart234
+    4300468: Sphere_fracturepart235
+    4300470: Sphere_fracturepart236
+    4300472: Sphere_fracturepart237
+    4300474: Sphere_fracturepart238
+    4300476: Sphere_fracturepart239
+    4300478: Sphere_fracturepart240
+    4300480: Sphere_fracturepart241
+    4300482: Sphere_fracturepart242
+    4300484: Sphere_fracturepart243
+    4300486: Sphere_fracturepart244
+    4300488: Sphere_fracturepart245
+    4300490: Sphere_fracturepart246
+    4300492: Sphere_fracturepart247
+    4300494: Sphere_fracturepart248
+    4300496: Sphere_fracturepart249
+    4300498: Sphere_fracturepart250
+    4300500: Sphere_fracturepart251
+    4300502: Sphere_fracturepart252
+    4300504: Sphere_fracturepart253
+    4300506: Sphere_fracturepart254
+    4300508: Sphere_fracturepart255
+    4300510: Sphere_fracturepart256
+    4300512: Sphere_fracturepart257
+    4300514: Sphere_fracturepart258
+    4300516: Sphere_fracturepart259
+    4300518: Sphere_fracturepart260
+    4300520: Sphere_fracturepart261
+    4300522: Sphere_fracturepart262
+    4300524: Sphere_fracturepart263
+    4300526: Sphere_fracturepart264
+    4300528: Sphere_fracturepart265
+    4300530: Sphere_fracturepart266
+    4300532: Sphere_fracturepart267
+    4300534: Sphere_fracturepart268
+    4300536: Sphere_fracturepart269
+    4300538: Sphere_fracturepart270
+    4300540: Sphere_fracturepart271
+    4300542: Sphere_fracturepart272
+    4300544: Sphere_fracturepart273
+    4300546: Sphere_fracturepart274
+    4300548: Sphere_fracturepart275
+    4300550: Sphere_fracturepart276
+    4300552: Sphere_fracturepart277
+    4300554: Sphere_fracturepart278
+    4300556: Sphere_fracturepart279
+    4300558: Sphere_fracturepart280
+    4300560: Sphere_fracturepart281
+    4300562: Sphere_fracturepart282
+    4300564: Sphere_fracturepart283
+    4300566: Sphere_fracturepart284
+    4300568: Sphere_fracturepart285
+    4300570: Sphere_fracturepart286
+    4300572: Sphere_fracturepart287
+    4300574: Sphere_fracturepart288
+    4300576: Sphere_fracturepart289
+    4300578: Sphere_fracturepart290
+    4300580: Sphere_fracturepart291
+    4300582: Sphere_fracturepart292
+    4300584: Sphere_fracturepart293
+    4300586: Sphere_fracturepart294
+    4300588: Sphere_fracturepart295
+    4300590: Sphere_fracturepart296
+    4300592: Sphere_fracturepart297
+    4300594: Sphere_fracturepart298
+    4300596: Sphere_fracturepart299
+    4300598: Sphere_fracturepart300
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere_fracturepart1
+        weight: 1
+      - path: Sphere_fracturepart2
+        weight: 1
+      - path: Sphere_fracturepart3
+        weight: 1
+      - path: Sphere_fracturepart4
+        weight: 1
+      - path: Sphere_fracturepart5
+        weight: 1
+      - path: Sphere_fracturepart6
+        weight: 1
+      - path: Sphere_fracturepart7
+        weight: 1
+      - path: Sphere_fracturepart8
+        weight: 1
+      - path: Sphere_fracturepart9
+        weight: 1
+      - path: Sphere_fracturepart10
+        weight: 1
+      - path: Sphere_fracturepart11
+        weight: 1
+      - path: Sphere_fracturepart12
+        weight: 1
+      - path: Sphere_fracturepart13
+        weight: 1
+      - path: Sphere_fracturepart14
+        weight: 1
+      - path: Sphere_fracturepart15
+        weight: 1
+      - path: Sphere_fracturepart16
+        weight: 1
+      - path: Sphere_fracturepart17
+        weight: 1
+      - path: Sphere_fracturepart18
+        weight: 1
+      - path: Sphere_fracturepart19
+        weight: 1
+      - path: Sphere_fracturepart20
+        weight: 1
+      - path: Sphere_fracturepart21
+        weight: 1
+      - path: Sphere_fracturepart22
+        weight: 1
+      - path: Sphere_fracturepart23
+        weight: 1
+      - path: Sphere_fracturepart24
+        weight: 1
+      - path: Sphere_fracturepart25
+        weight: 1
+      - path: Sphere_fracturepart26
+        weight: 1
+      - path: Sphere_fracturepart27
+        weight: 1
+      - path: Sphere_fracturepart28
+        weight: 1
+      - path: Sphere_fracturepart29
+        weight: 1
+      - path: Sphere_fracturepart30
+        weight: 1
+      - path: Sphere_fracturepart31
+        weight: 1
+      - path: Sphere_fracturepart32
+        weight: 1
+      - path: Sphere_fracturepart33
+        weight: 1
+      - path: Sphere_fracturepart34
+        weight: 1
+      - path: Sphere_fracturepart35
+        weight: 1
+      - path: Sphere_fracturepart36
+        weight: 1
+      - path: Sphere_fracturepart37
+        weight: 1
+      - path: Sphere_fracturepart38
+        weight: 1
+      - path: Sphere_fracturepart39
+        weight: 1
+      - path: Sphere_fracturepart40
+        weight: 1
+      - path: Sphere_fracturepart41
+        weight: 1
+      - path: Sphere_fracturepart42
+        weight: 1
+      - path: Sphere_fracturepart43
+        weight: 1
+      - path: Sphere_fracturepart44
+        weight: 1
+      - path: Sphere_fracturepart45
+        weight: 1
+      - path: Sphere_fracturepart46
+        weight: 1
+      - path: Sphere_fracturepart47
+        weight: 1
+      - path: Sphere_fracturepart48
+        weight: 1
+      - path: Sphere_fracturepart49
+        weight: 1
+      - path: Sphere_fracturepart50
+        weight: 1
+      - path: Sphere_fracturepart51
+        weight: 1
+      - path: Sphere_fracturepart52
+        weight: 1
+      - path: Sphere_fracturepart53
+        weight: 1
+      - path: Sphere_fracturepart54
+        weight: 1
+      - path: Sphere_fracturepart55
+        weight: 1
+      - path: Sphere_fracturepart56
+        weight: 1
+      - path: Sphere_fracturepart57
+        weight: 1
+      - path: Sphere_fracturepart58
+        weight: 1
+      - path: Sphere_fracturepart59
+        weight: 1
+      - path: Sphere_fracturepart60
+        weight: 1
+      - path: Sphere_fracturepart61
+        weight: 1
+      - path: Sphere_fracturepart62
+        weight: 1
+      - path: Sphere_fracturepart63
+        weight: 1
+      - path: Sphere_fracturepart64
+        weight: 1
+      - path: Sphere_fracturepart65
+        weight: 1
+      - path: Sphere_fracturepart66
+        weight: 1
+      - path: Sphere_fracturepart67
+        weight: 1
+      - path: Sphere_fracturepart68
+        weight: 1
+      - path: Sphere_fracturepart69
+        weight: 1
+      - path: Sphere_fracturepart70
+        weight: 1
+      - path: Sphere_fracturepart71
+        weight: 1
+      - path: Sphere_fracturepart72
+        weight: 1
+      - path: Sphere_fracturepart73
+        weight: 1
+      - path: Sphere_fracturepart74
+        weight: 1
+      - path: Sphere_fracturepart75
+        weight: 1
+      - path: Sphere_fracturepart76
+        weight: 1
+      - path: Sphere_fracturepart77
+        weight: 1
+      - path: Sphere_fracturepart78
+        weight: 1
+      - path: Sphere_fracturepart79
+        weight: 1
+      - path: Sphere_fracturepart80
+        weight: 1
+      - path: Sphere_fracturepart81
+        weight: 1
+      - path: Sphere_fracturepart82
+        weight: 1
+      - path: Sphere_fracturepart83
+        weight: 1
+      - path: Sphere_fracturepart84
+        weight: 1
+      - path: Sphere_fracturepart85
+        weight: 1
+      - path: Sphere_fracturepart86
+        weight: 1
+      - path: Sphere_fracturepart87
+        weight: 1
+      - path: Sphere_fracturepart88
+        weight: 1
+      - path: Sphere_fracturepart89
+        weight: 1
+      - path: Sphere_fracturepart90
+        weight: 1
+      - path: Sphere_fracturepart91
+        weight: 1
+      - path: Sphere_fracturepart92
+        weight: 1
+      - path: Sphere_fracturepart93
+        weight: 1
+      - path: Sphere_fracturepart94
+        weight: 1
+      - path: Sphere_fracturepart95
+        weight: 1
+      - path: Sphere_fracturepart96
+        weight: 1
+      - path: Sphere_fracturepart97
+        weight: 1
+      - path: Sphere_fracturepart98
+        weight: 1
+      - path: Sphere_fracturepart99
+        weight: 1
+      - path: Sphere_fracturepart100
+        weight: 1
+      - path: Sphere_fracturepart101
+        weight: 1
+      - path: Sphere_fracturepart102
+        weight: 1
+      - path: Sphere_fracturepart103
+        weight: 1
+      - path: Sphere_fracturepart104
+        weight: 1
+      - path: Sphere_fracturepart105
+        weight: 1
+      - path: Sphere_fracturepart106
+        weight: 1
+      - path: Sphere_fracturepart107
+        weight: 1
+      - path: Sphere_fracturepart108
+        weight: 1
+      - path: Sphere_fracturepart109
+        weight: 1
+      - path: Sphere_fracturepart110
+        weight: 1
+      - path: Sphere_fracturepart111
+        weight: 1
+      - path: Sphere_fracturepart112
+        weight: 1
+      - path: Sphere_fracturepart113
+        weight: 1
+      - path: Sphere_fracturepart114
+        weight: 1
+      - path: Sphere_fracturepart115
+        weight: 1
+      - path: Sphere_fracturepart116
+        weight: 1
+      - path: Sphere_fracturepart117
+        weight: 1
+      - path: Sphere_fracturepart118
+        weight: 1
+      - path: Sphere_fracturepart119
+        weight: 1
+      - path: Sphere_fracturepart120
+        weight: 1
+      - path: Sphere_fracturepart121
+        weight: 1
+      - path: Sphere_fracturepart122
+        weight: 1
+      - path: Sphere_fracturepart123
+        weight: 1
+      - path: Sphere_fracturepart124
+        weight: 1
+      - path: Sphere_fracturepart125
+        weight: 1
+      - path: Sphere_fracturepart126
+        weight: 1
+      - path: Sphere_fracturepart127
+        weight: 1
+      - path: Sphere_fracturepart128
+        weight: 1
+      - path: Sphere_fracturepart129
+        weight: 1
+      - path: Sphere_fracturepart130
+        weight: 1
+      - path: Sphere_fracturepart131
+        weight: 1
+      - path: Sphere_fracturepart132
+        weight: 1
+      - path: Sphere_fracturepart133
+        weight: 1
+      - path: Sphere_fracturepart134
+        weight: 1
+      - path: Sphere_fracturepart135
+        weight: 1
+      - path: Sphere_fracturepart136
+        weight: 1
+      - path: Sphere_fracturepart137
+        weight: 1
+      - path: Sphere_fracturepart138
+        weight: 1
+      - path: Sphere_fracturepart139
+        weight: 1
+      - path: Sphere_fracturepart140
+        weight: 1
+      - path: Sphere_fracturepart141
+        weight: 1
+      - path: Sphere_fracturepart142
+        weight: 1
+      - path: Sphere_fracturepart143
+        weight: 1
+      - path: Sphere_fracturepart144
+        weight: 1
+      - path: Sphere_fracturepart145
+        weight: 1
+      - path: Sphere_fracturepart146
+        weight: 1
+      - path: Sphere_fracturepart147
+        weight: 1
+      - path: Sphere_fracturepart148
+        weight: 1
+      - path: Sphere_fracturepart149
+        weight: 1
+      - path: Sphere_fracturepart150
+        weight: 1
+      - path: Sphere_fracturepart151
+        weight: 1
+      - path: Sphere_fracturepart152
+        weight: 1
+      - path: Sphere_fracturepart153
+        weight: 1
+      - path: Sphere_fracturepart154
+        weight: 1
+      - path: Sphere_fracturepart155
+        weight: 1
+      - path: Sphere_fracturepart156
+        weight: 1
+      - path: Sphere_fracturepart157
+        weight: 1
+      - path: Sphere_fracturepart158
+        weight: 1
+      - path: Sphere_fracturepart159
+        weight: 1
+      - path: Sphere_fracturepart160
+        weight: 1
+      - path: Sphere_fracturepart161
+        weight: 1
+      - path: Sphere_fracturepart162
+        weight: 1
+      - path: Sphere_fracturepart163
+        weight: 1
+      - path: Sphere_fracturepart164
+        weight: 1
+      - path: Sphere_fracturepart165
+        weight: 1
+      - path: Sphere_fracturepart166
+        weight: 1
+      - path: Sphere_fracturepart167
+        weight: 1
+      - path: Sphere_fracturepart168
+        weight: 1
+      - path: Sphere_fracturepart169
+        weight: 1
+      - path: Sphere_fracturepart170
+        weight: 1
+      - path: Sphere_fracturepart171
+        weight: 1
+      - path: Sphere_fracturepart172
+        weight: 1
+      - path: Sphere_fracturepart173
+        weight: 1
+      - path: Sphere_fracturepart174
+        weight: 1
+      - path: Sphere_fracturepart175
+        weight: 1
+      - path: Sphere_fracturepart176
+        weight: 1
+      - path: Sphere_fracturepart177
+        weight: 1
+      - path: Sphere_fracturepart178
+        weight: 1
+      - path: Sphere_fracturepart179
+        weight: 1
+      - path: Sphere_fracturepart180
+        weight: 1
+      - path: Sphere_fracturepart181
+        weight: 1
+      - path: Sphere_fracturepart182
+        weight: 1
+      - path: Sphere_fracturepart183
+        weight: 1
+      - path: Sphere_fracturepart184
+        weight: 1
+      - path: Sphere_fracturepart185
+        weight: 1
+      - path: Sphere_fracturepart186
+        weight: 1
+      - path: Sphere_fracturepart187
+        weight: 1
+      - path: Sphere_fracturepart188
+        weight: 1
+      - path: Sphere_fracturepart189
+        weight: 1
+      - path: Sphere_fracturepart190
+        weight: 1
+      - path: Sphere_fracturepart191
+        weight: 1
+      - path: Sphere_fracturepart192
+        weight: 1
+      - path: Sphere_fracturepart193
+        weight: 1
+      - path: Sphere_fracturepart194
+        weight: 1
+      - path: Sphere_fracturepart195
+        weight: 1
+      - path: Sphere_fracturepart196
+        weight: 1
+      - path: Sphere_fracturepart197
+        weight: 1
+      - path: Sphere_fracturepart198
+        weight: 1
+      - path: Sphere_fracturepart199
+        weight: 1
+      - path: Sphere_fracturepart200
+        weight: 1
+      - path: Sphere_fracturepart201
+        weight: 1
+      - path: Sphere_fracturepart202
+        weight: 1
+      - path: Sphere_fracturepart203
+        weight: 1
+      - path: Sphere_fracturepart204
+        weight: 1
+      - path: Sphere_fracturepart205
+        weight: 1
+      - path: Sphere_fracturepart206
+        weight: 1
+      - path: Sphere_fracturepart207
+        weight: 1
+      - path: Sphere_fracturepart208
+        weight: 1
+      - path: Sphere_fracturepart209
+        weight: 1
+      - path: Sphere_fracturepart210
+        weight: 1
+      - path: Sphere_fracturepart211
+        weight: 1
+      - path: Sphere_fracturepart212
+        weight: 1
+      - path: Sphere_fracturepart213
+        weight: 1
+      - path: Sphere_fracturepart214
+        weight: 1
+      - path: Sphere_fracturepart215
+        weight: 1
+      - path: Sphere_fracturepart216
+        weight: 1
+      - path: Sphere_fracturepart217
+        weight: 1
+      - path: Sphere_fracturepart218
+        weight: 1
+      - path: Sphere_fracturepart219
+        weight: 1
+      - path: Sphere_fracturepart220
+        weight: 1
+      - path: Sphere_fracturepart221
+        weight: 1
+      - path: Sphere_fracturepart222
+        weight: 1
+      - path: Sphere_fracturepart223
+        weight: 1
+      - path: Sphere_fracturepart224
+        weight: 1
+      - path: Sphere_fracturepart225
+        weight: 1
+      - path: Sphere_fracturepart226
+        weight: 1
+      - path: Sphere_fracturepart227
+        weight: 1
+      - path: Sphere_fracturepart228
+        weight: 1
+      - path: Sphere_fracturepart229
+        weight: 1
+      - path: Sphere_fracturepart230
+        weight: 1
+      - path: Sphere_fracturepart231
+        weight: 1
+      - path: Sphere_fracturepart232
+        weight: 1
+      - path: Sphere_fracturepart233
+        weight: 1
+      - path: Sphere_fracturepart234
+        weight: 1
+      - path: Sphere_fracturepart235
+        weight: 1
+      - path: Sphere_fracturepart236
+        weight: 1
+      - path: Sphere_fracturepart237
+        weight: 1
+      - path: Sphere_fracturepart238
+        weight: 1
+      - path: Sphere_fracturepart239
+        weight: 1
+      - path: Sphere_fracturepart240
+        weight: 1
+      - path: Sphere_fracturepart241
+        weight: 1
+      - path: Sphere_fracturepart242
+        weight: 1
+      - path: Sphere_fracturepart243
+        weight: 1
+      - path: Sphere_fracturepart244
+        weight: 1
+      - path: Sphere_fracturepart245
+        weight: 1
+      - path: Sphere_fracturepart246
+        weight: 1
+      - path: Sphere_fracturepart247
+        weight: 1
+      - path: Sphere_fracturepart248
+        weight: 1
+      - path: Sphere_fracturepart249
+        weight: 1
+      - path: Sphere_fracturepart250
+        weight: 1
+      - path: Sphere_fracturepart251
+        weight: 1
+      - path: Sphere_fracturepart252
+        weight: 1
+      - path: Sphere_fracturepart253
+        weight: 1
+      - path: Sphere_fracturepart254
+        weight: 1
+      - path: Sphere_fracturepart255
+        weight: 1
+      - path: Sphere_fracturepart256
+        weight: 1
+      - path: Sphere_fracturepart257
+        weight: 1
+      - path: Sphere_fracturepart258
+        weight: 1
+      - path: Sphere_fracturepart259
+        weight: 1
+      - path: Sphere_fracturepart260
+        weight: 1
+      - path: Sphere_fracturepart261
+        weight: 1
+      - path: Sphere_fracturepart262
+        weight: 1
+      - path: Sphere_fracturepart263
+        weight: 1
+      - path: Sphere_fracturepart264
+        weight: 1
+      - path: Sphere_fracturepart265
+        weight: 1
+      - path: Sphere_fracturepart266
+        weight: 1
+      - path: Sphere_fracturepart267
+        weight: 1
+      - path: Sphere_fracturepart268
+        weight: 1
+      - path: Sphere_fracturepart269
+        weight: 1
+      - path: Sphere_fracturepart270
+        weight: 1
+      - path: Sphere_fracturepart271
+        weight: 1
+      - path: Sphere_fracturepart272
+        weight: 1
+      - path: Sphere_fracturepart273
+        weight: 1
+      - path: Sphere_fracturepart274
+        weight: 1
+      - path: Sphere_fracturepart275
+        weight: 1
+      - path: Sphere_fracturepart276
+        weight: 1
+      - path: Sphere_fracturepart277
+        weight: 1
+      - path: Sphere_fracturepart278
+        weight: 1
+      - path: Sphere_fracturepart279
+        weight: 1
+      - path: Sphere_fracturepart280
+        weight: 1
+      - path: Sphere_fracturepart281
+        weight: 1
+      - path: Sphere_fracturepart282
+        weight: 1
+      - path: Sphere_fracturepart283
+        weight: 1
+      - path: Sphere_fracturepart284
+        weight: 1
+      - path: Sphere_fracturepart285
+        weight: 1
+      - path: Sphere_fracturepart286
+        weight: 1
+      - path: Sphere_fracturepart287
+        weight: 1
+      - path: Sphere_fracturepart288
+        weight: 1
+      - path: Sphere_fracturepart289
+        weight: 1
+      - path: Sphere_fracturepart290
+        weight: 1
+      - path: Sphere_fracturepart291
+        weight: 1
+      - path: Sphere_fracturepart292
+        weight: 1
+      - path: Sphere_fracturepart293
+        weight: 1
+      - path: Sphere_fracturepart294
+        weight: 1
+      - path: Sphere_fracturepart295
+        weight: 1
+      - path: Sphere_fracturepart296
+        weight: 1
+      - path: Sphere_fracturepart297
+        weight: 1
+      - path: Sphere_fracturepart298
+        weight: 1
+      - path: Sphere_fracturepart299
+        weight: 1
+      - path: Sphere_fracturepart300
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
